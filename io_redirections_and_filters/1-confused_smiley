@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '"(%so)'"'"'\n' "$(printf '\u00f4')"
+echo "\"(ôo)'"
