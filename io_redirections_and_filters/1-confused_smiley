@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "\"(0o)'"
+printf '"(0o)'"'"'\n'
