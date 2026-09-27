@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '"(0o)'"'"'\n'
+printf '\x22\x28\x30\x6f\x29\x27\x0a'
